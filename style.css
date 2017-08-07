@@ -1,0 +1,44 @@
+body {
+  margin-top: 60px;
+}
+
+.container {
+  background-color: #6f7133;
+  margin: auto;
+  padding-bottom: 24px;
+}
+
+#theheader {
+  color: red;
+}
+
+.imageView {
+  margin: 0px 72px 24px 72px;
+  background-color: grey;
+}
+
+#quote {
+  margin: 0px 0px 0px 36px;
+  font-style: italic;
+}
+
+.biography {
+  margin: 24px 180px 0px 180px;
+  color: white;
+}
+
+h4 {
+  color: black;
+}
+
+#quotesauthor {
+  color: red;
+  margin: 0px 0px 24px 36px;
+}
+.author {
+  margin: 0px 96px 0px 96px;
+}
+
+#author {
+  text-align: center;
+}
